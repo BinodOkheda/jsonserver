@@ -1,0 +1,31 @@
+h1{
+    
+    background-color: rgb(54, 221, 54);
+    padding: 25px;
+    color: white;
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+   justify-content: space-around;
+    width: 35%;
+    margin: auto;
+    height: 450px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 15px;
+}
+
+input{
+    height: 25px;
+}
+
+select{
+    height: 25px;
+}
+
+.submit{
+  color: rgb(255, 255, 255);
+  background-color: green;
+}

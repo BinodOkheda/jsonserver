@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "name": "Binod Okheda",
+      "age": "23",
+      "place": "chidambaram",
+      "batch": "WEB-15",
+      "profession": "Frontend",
+      "id": 3
+    },
+    {
+      "name": "mani",
+      "age": "31",
+      "place": "chidambaram",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 4
+    },
+    {
+      "name": "mahesh",
+      "age": "23",
+      "place": "chidambaram",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 5
+    },
+    {
+      "name": "arun",
+      "age": "24",
+      "place": "chidambaram",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 6
+    },
+    {
+      "name": "Binod Okheda",
+      "age": "23",
+      "place": "chidambaram",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 7
+    }
+  ]
+}
